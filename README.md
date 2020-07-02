@@ -19,7 +19,7 @@ This is a detailed description of your my application, including its purpose and
 * JQuery
 * Bootstrap
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Send email to fchirchir@gmail.com
 ### License
 *MIT*
-Copyright (c) 2020 ** Felix Chirchir**
+Copyright (c)2020  Felix Chirchir
